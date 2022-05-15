@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611401531 source:c:\users\90541\desktop\kitaps\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

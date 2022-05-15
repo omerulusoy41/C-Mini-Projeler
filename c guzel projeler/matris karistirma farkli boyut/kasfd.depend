@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614686529 source:c:\users\90541\desktop\kasfd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

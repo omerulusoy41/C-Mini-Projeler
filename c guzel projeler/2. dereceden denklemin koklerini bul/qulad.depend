@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615982052 source:c:\users\90541\desktop\qulad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

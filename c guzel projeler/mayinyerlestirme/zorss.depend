@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615127783 source:c:\users\90541\desktop\zorss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1615127783 source:d:\c guzel projeler\mayinyerlestirme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

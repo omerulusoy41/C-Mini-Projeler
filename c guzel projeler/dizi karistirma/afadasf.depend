@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614178842 source:c:\users\90541\desktop\afadasf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1614178842 source:d:\c guzel projeler\dizi karistirma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,20 @@
+
+1.ogrencinin;
+adi=omer
+soyadi=faruk
+okul no=12
+
+2.ogrencinin;
+adi=ali
+soyadi=ayse
+okul no=23
+
+3.ogrencinin;
+adi=asfv
+soyadi=sdfg
+okul no=325
+
+4.ogrencinin;
+adi=asdvb
+soyadi=grrsbv
+okul no=56
